@@ -1,0 +1,15 @@
+{
+  "title": "RTSSBook",
+  "description": "Real Time Streaming Server Book",
+  "author": "Akagi201",
+  "language": "zh",
+  "plugins": ["ga", "disqus"],
+  "pluginsConfig": {
+    "ga":{
+      "token": "UA-46663685-11"
+    },
+    "disqus": {
+      "shortName": "akagi201"
+    }
+  }
+}
