@@ -3,13 +3,20 @@
   "description": "Real Time Streaming Server Book",
   "author": "Akagi201",
   "language": "zh",
-  "plugins": ["ga", "disqus"],
+  "plugins": ["ga", "disqus", "github", "edit-link"],
   "pluginsConfig": {
     "ga":{
       "token": "UA-46663685-11"
     },
     "disqus": {
-      "shortName": "akagi201"
+      "shortName": "rtssbook"
+    },
+    "github": {
+      "url": "https://github.com/osrtss/rtssbook"
+    },
+    "edit-link": {
+      "base": "https://github.com/osrtss/rtssbook/edit/master",
+      "label": "Edit This Page"
     }
   }
 }
