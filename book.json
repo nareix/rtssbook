@@ -2,7 +2,7 @@
   "title": "RTSSBook",
   "description": "Real Time Streaming Server Book",
   "author": "Akagi201",
-  "language": "zh",
+  "language": "zh-hans",
   "plugins": ["ga", "disqus", "github", "edit-link"],
   "pluginsConfig": {
     "ga":{
